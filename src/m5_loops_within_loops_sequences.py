@@ -245,6 +245,7 @@ def big_letters(sequence_of_sequences):
                     st = st + sequence_of_sequences[k][j]
     return st
 
+
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
